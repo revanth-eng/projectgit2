@@ -1,2 +1,6 @@
 hi this is stash file
+<<<<<<< HEAD
 just checking stash
+=======
+im editing this file
+>>>>>>> 9ef9566f48523e26c7c2f4345fc00a0c813d5b1c
